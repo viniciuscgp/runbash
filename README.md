@@ -8,7 +8,7 @@ Apenas copie este código e cole na IDE C e execute.
 Detro do shell, você pode utitilizar os comandos do shell. 
 
 ## Onde eu já testei ?
-https://www.onlinegdb.com/online_c_compiler
-https://www.jdoodle.com/c-online-compiler
-https://www.online-ide.com/
+- https://www.onlinegdb.com/online_c_compiler
+- https://www.jdoodle.com/c-online-compiler
+- https://www.online-ide.com/
 
